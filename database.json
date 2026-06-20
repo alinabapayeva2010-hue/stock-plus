@@ -1,0 +1,32 @@
+{
+    "products": {
+        "11": {
+            "name": "Барбарисовый вкус 5.5 (стекло)",
+            "stock": 22,
+            "purchase_price": 40.19,
+            "selling_price": 514.0
+        },
+        "12": {
+            "name": "Дюшес 0.5 (стекло)",
+            "stock": 25,
+            "purchase_price": 39.83,
+            "selling_price": 1036.0
+        }
+    },
+    "orders": [
+        {
+            "article": "11",
+            "product_name": "Барбарисовый вкус 5.5 (стекло)",
+            "quantity": 2,
+            "total_sale": 1028.0,
+            "profit": 947.62
+        },
+        {
+            "article": "11",
+            "product_name": "Барбарисовый вкус 5.5 (стекло)",
+            "quantity": 1,
+            "total_sale": 514.0,
+            "profit": 473.81
+        }
+    ]
+}
